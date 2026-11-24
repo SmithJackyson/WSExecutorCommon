@@ -1,2 +1,2 @@
 # WSExecutorCommon
-Common Definition of WSExecutor
+Common component for WSDynamicExecutor and WSSwiftRegisterExecutor.
